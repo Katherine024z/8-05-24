@@ -15,14 +15,12 @@ int main()
             cout << n << " no es primo "<< "\n";
             primo = 0;
             break;
-
-            if (primo);
-            {
-                cout << n << "Es primo ";
-                break;
-            }
-
         }
+    }
+
+    if (primo)
+    {
+        cout << n << " Es primo ";
     }
     return 0;
 
